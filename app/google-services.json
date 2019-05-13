@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "680304605278",
+    "firebase_url": "https://build-it-bigger-aleksander.firebaseio.com",
+    "project_id": "build-it-bigger-aleksander",
+    "storage_bucket": "build-it-bigger-aleksander.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680304605278:android:737acb1d6a2b6a85",
+        "android_client_info": {
+          "package_name": "com.iaz.findyourway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680304605278-ptjbh0a7egb26m9fcv7kumvvtgj75tlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7JJvOKEq6zRN92acl7QPrD-JJJi86lAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680304605278-ptjbh0a7egb26m9fcv7kumvvtgj75tlq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

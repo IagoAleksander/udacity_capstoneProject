@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Find Your Way</string>
+    <string name="add_some_destinations">Calculate\na route</string>
+
+    <!-- error messages -->
+    <string name="general_error">An error occurred, please try again</string>
+    <string name="error_location_at_max">A maximum of 10 locations can be added at a time</string>
+    <string name="error_location_not_min">At least 3 locations must be added</string>
+
+    <!-- success messages -->
+    <string name="destinations_updated">Destinations were updated successfully</string>
+
+    <!-- fragment main -->
+    <string name="header_destinations">Destinations:</string>
+    <string name="header_transport">Transport:</string>
+    <string name="bt_calculate">Calculate</string>
+    <string name="bt_clear_all">Clear all</string>
+    <string name="bt_add_new">Add New</string>
+
+    <!-- fragment results -->
+    <string name="hint_no_destinations">There are no destinations to be shown. Add some!!!</string>
+    <string name="header_last_result">Last result:</string>
+    <string name="header_total_distance">Total distance:</string>
+    <string name="hint_no_results">The are no results to be shown</string>
+
+    <!-- content descriptions -->
+    <string name="app_icon">App Icon</string>
+    <string name="by_car">By car</string>
+    <string name="by_foot">By foot</string>
+    <string name="by_bike">By bike</string>
+    <string name="item_destination_symbol">"• "</string>
+
+
+</resources>
